@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CsvReader.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Country.cs" Line="305" Column="71" />
+      <File FileName="Assets\Scripts\Map\Map.cs" Line="354" Column="91" />
+      <File FileName="Assets\Scripts\Population\Pop.cs" Line="458" Column="86" />
+      <File FileName="Assets\Scripts\Game.cs" Line="72" Column="38" />
+      <File FileName="Assets\Scripts\Province.cs" Line="117" Column="61" />
+      <File FileName="Assets\Scripts\CsvReader.cs" Line="93" Column="17" />
+      <File FileName="Assets\Scripts\Panels\PopulationPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\History.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Panels\TopPanel.cs" Line="30" Column="89" />
+      <File FileName="Assets\Scripts\Helpers\Rank.cs" Line="41" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\A_Data\WesternSun\Assets\Scripts\CsvReader.cs" line="1152" column="34" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
